@@ -1,3 +1,0 @@
-[submodule "libalgebra"]
-	path = libalgebra
-	url = git@github.com:terrylyons/libalgebra.git
